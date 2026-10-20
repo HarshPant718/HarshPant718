@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HarshPant718/HarshPant718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Harsh Pant 👋
 
-Here are some ideas to get you started:
+<img
+  src="https://github.com/HarshPant718.png"
+  width="180"
+  alt="Harsh Pant"
+/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<a href="https://leetcode.com/u/HArahpant_717/">
+  <img
+    src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="LeetCode"
+  />
+</a>
+
+</div>
