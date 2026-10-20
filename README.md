@@ -1,9 +1,21 @@
 <div align="center">
 
-# Hey, I'm Harsh Pant 👋
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HarshPant718/HarshPant718/main/art/header-dark.png"
+  />
+  <img
+    src="https://raw.githubusercontent.com/HarshPant718/HarshPant718/main/art/header-light.png"
+    alt="HarshPant718 GitHub Profile"
+    width="100%"
+  />
+</picture>
+
+<br><br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EF93C4&center=true&vCenter=true&width=600&lines=Python+%7C+DSA+%7C+AI;Full+Stack+Developer+in+Progress;Building+%26+Learning+Every+Day"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Python+%7C+DSA+%7C+AI;Full+Stack+Developer+in+Progress;Building+%26+Learning+Every+Day"
   alt="Typing SVG"
 />
 
@@ -38,7 +50,10 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" alt="Tech Stack"/>
+<img
+  src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark"
+  alt="Tech Stack"
+/>
 
 <br><br>
 
@@ -54,5 +69,9 @@
     alt="GitHub"
   />
 </a>
+
+<br><br>
+
+<sub>Thanks for visiting my profile! 💗</sub>
 
 </div>
