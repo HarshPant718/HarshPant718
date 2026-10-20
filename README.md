@@ -8,13 +8,20 @@
   alt="Harsh Pant"
 />
 
-<br><br>
+<br>
+
+## 🧩 LeetCode
+
+<div align="center">
 
 <a href="https://leetcode.com/u/HArahpant_717/">
   <img
-    src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-    alt="LeetCode"
+    src="https://leetcard.jacoblin.cool/HArahpant_717?theme=dark&font=Baloo&ext=heatmap"
+    width="500"
+    alt="Harsh Pant LeetCode Stats"
   />
 </a>
+
+</div>
 
 </div>
